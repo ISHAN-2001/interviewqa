@@ -1,0 +1,7 @@
+1. Kafka Architecture
+2. Pub-Sub model , producer-consumer
+3. broker (leader,follower)
+4. Role of zookeeper
+5. Awknowledgement
+6. Kakfa Topics
+7. Kakfa offset 
