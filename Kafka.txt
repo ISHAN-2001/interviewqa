@@ -5,3 +5,4 @@
 5. Awknowledgement
 6. Kakfa Topics
 7. Kakfa offset & partitions
+8. Consumer group
